@@ -1,8 +1,8 @@
 # ITU AI-ML in 5G Challenge
 
-## Team C-LAMP
+## Team C-LAMP (CDAC Localization using AI ML Platform)
 
-## Team Members:
+### Team Members:
 
 | Name                  | Designation               | Organisation                                                     |Email   |
 | -------------         | -------------             | -------------                                                    |--------|
